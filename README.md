@@ -4,5 +4,5 @@
 <section class=" principal container ">
   <h1>Como olhar meu projeto</h1>
   <h2>Acesse o link abaixo para ver meu projeto como ficou</h2>
-<a href=“ <a href=“https://gabriel2586.github.io/prjeto-alura/“>projeto alura</a>
+<a href=“ <a href=“projeto-alura-57p6yzvb6-gabriel2586.vercel.app“>projeto alura</a>
   
